@@ -34,8 +34,8 @@ Hi! I'm **Rafliyansyah Ismail** (or just **Rafly**), an Information Technology u
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raflyansyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raflyansyah&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raflyansyah&theme=tokyonight" alt="GitHub Stats" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raflyansyah&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
