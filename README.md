@@ -1,31 +1,59 @@
-## Hi there 👋
-
-
-**Rafliyansyah/Rafliyansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## GitHub Stats 📊
+<!-- Dynamic Typing SVG Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rafliyansyah!+%F0%9F%91%8B;Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+Kotlin+%7C+Express.js+%7C+Linux+Enthusiast;Coding+with+Coffee+%26+Tinkering+with+Motorcycles+%F0%9F%8F%8D%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 <p align="center">
-<a href="https://github.com/Rafliyansyah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafliyansyah&show_icons=true&bg_color=0d1117&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafliyansyah&layout=compact&langs_count=8&bg_color=0d1117&theme=tokyonight&hide=html,css"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Raflyansyah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://instagram.com/rflynsyh_">
+    <img src="https://img.shields.io/badge/Instagram-@rflynsyh__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-## Activity Graph 📈
+---
+
+### 🧑‍💻 About Me
+
+Hi! I'm **Rafliyansyah Ismail** (or just **Rafly**), an Information Technology undergraduate at **UIN Antasari Banjarmasin** who loves building clean, functional, and rock-solid web and mobile applications.
+
+* 🔭 **I’m currently working on:** Web portals and digital document management systems powered by **PHP Laravel**.
+* 🌱 **I’m currently learning:** System automation, web application security, and tweaking my daily workflow on **Fedora Linux**.
+* 💬 **Ask me about:** Full-stack web development (Laravel / Express.js), Android development (Kotlin / Jetpack Compose), or database design.
+* ⚡ **Fun fact:** When I’m not staring at VS Code or a Linux terminal, you’ll most likely find me playing games or tinkering with my motorcycle! 🏍️👾
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,java,js,express,python,mysql,linux,git,github,vscode&perline=6" alt="Tech Stack" />
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafliyansyah&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=00d4ff&point=7c3aed&area=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raflyansyah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raflyansyah&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-<br>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raflyansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raflyansyah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" width="100%" />
+</div>
