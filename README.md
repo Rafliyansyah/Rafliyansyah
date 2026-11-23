@@ -12,17 +12,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-Hi! I'm **Rafliyansyah Ismail** (or just **Rafly**), an Information Technology undergraduate at **UIN Antasari Banjarmasin** who loves building clean, functional, and rock-solid web and mobile applications.
-
-* 🔭 **I’m currently working on:** Web portals and digital document management systems powered by **PHP Laravel**.
-* 🌱 **I’m currently learning:** System automation, web application security, and studying cybersecurity.
-* 💬 **Ask me about:** Full-stack web development (Laravel / Express.js), Android development (Kotlin / Jetpack Compose), or database design.
-* ⚡ **Fun fact:** When I’m not staring at VS Code or a Linux terminal, you’ll most likely find me playing games or tinkering with my motorcycle! 🏍️👾
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
